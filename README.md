@@ -1,3 +1,3 @@
 # hello-world
-ÕâÊÇ pangjingyang µÄµÚÒ»¸ö²Ö¿â£¬ÓÃÓÚÁ·Ï° git µÄ clone / add / commit / push¡£
 
+è¿™æ˜¯ pangjingyang çš„ç¬¬ä¸€ä¸ªä»“åº“ï¼Œç”¨æ¥ç»ƒä¹  git çš„ clone / add / commit / pushã€‚
